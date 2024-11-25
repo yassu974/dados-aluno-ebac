@@ -1,9 +1,9 @@
 Dados do aluno
 
--Primeiro Nome: Renan Yassumoto Ferreira
+-Primeiro Nome: Renan
 -Profissão: Marketing Supervisor
 -Cidade: Barueri - SP
--O que faz nas horas vaga: Assito animes e séries
+-O que faz nas horas vaga: Assisto animes e séries
 -Feedback sobre o curso Qualidade de Software: Excelente!
 -Feedback sobre a plataforma de estudo da EBAC: Excelente!
 
